@@ -2,7 +2,7 @@
 *List of templates focused on uncertainty quantification applied to machine learning and deep learning*
 ***
 
-## Some of the topics covered in this repository are:
+## Topics
 - Difference between prediction and confidence intervals
 - Quantile regression
 - Uncertainty quantification applied to ANNs
